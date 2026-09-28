@@ -26,7 +26,7 @@ module.exports = {
         langs: {
                 en: {
                         noInput: "• Baby, please specify a category or reply to a video.",
-                        error: "× API error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139",
+                        error: "× API error: %1. Contact ᴀʟꫝᴍɪɴ for help.\n•Imo: Nai 🤪",
                         invalidPage: "× Invalid page! Max page: %1",
                         invalidSelect: " Invalid selection.",
                         categoryNotFound: "× Category '%1' not found! Please check the list.",
@@ -35,7 +35,7 @@ module.exports = {
                 },
                 vi: {
                         noInput: "• Cưng ơi, vui lòng chỉ định danh mục hoặc phản hồi video.",
-                        error: "× Lỗi: %1. Liên hệ MahMUD để hỗ trợ.\n•WhatsApp: 01836298139",
+                        error: "× Lỗi: %1. Liên hệ ᴀʟꫝᴍɪɴ để hỗ trợ.\n•Imo: Nai 🤪",
                         invalidPage: "× Trang không hợp lệ! Trang tối đa: %1",
                         invalidSelect: "× Lựa chọn không hợp lệ.",
                         categoryNotFound: "× Không tìm thấy danh mục '%1'! Vui lòng kiểm tra danh sách.",
