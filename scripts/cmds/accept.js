@@ -28,7 +28,7 @@ module.exports = {
                         replyGuide: "\n• 'add <index|all>' দিয়ে এক্সেপ্ট করুন\n• 'del <index|all>' দিয়ে ডিলিট করুন",
                         invalidAction: "× ভুল কমান্ড! শুধু add অথবা del ব্যবহার করুন।",
                         done: "✅ কাজ শেষ!\n• সফল: %1\n• ব্যর্থ: %2",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact ᴀʟꫝᴍɪɴ।"
                 },
                 en: {
                         noRequest: "× No pending friend requests! 😴",
@@ -36,7 +36,7 @@ module.exports = {
                         replyGuide: "\n• Reply 'add <index|all>' to accept\n• Reply 'del <index|all>' to delete",
                         invalidAction: "× Invalid action! Use 'add' or 'del'.",
                         done: "✅ Task Complete!\n• Success: %1\n• Failed: %2",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact ᴀʟꫝᴍɪɴ for help."
                 },
                 vi: {
                         noRequest: "× Không có yêu cầu kết bạn nào đang chờ! 😴",
