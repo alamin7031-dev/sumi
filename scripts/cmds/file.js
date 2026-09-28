@@ -26,19 +26,19 @@ module.exports = {
                         noInput: "× বেবি, কমান্ডের নাম তো দাও",
                         notFound: "× এই নামে কোনো কমান্ড খুঁজে পাওয়া যায়নি!",
                         denied: "× অ্যাক্সেস ডিনাইড: পাথ ট্রাভার্সাল শনাক্ত হয়েছে!",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact ᴀʟꫝᴍɪɴ।"
                 },
                 en: {
                         noInput: "× Baby, please provide a command name",
                         notFound: "× Command not found!",
                         denied: "× Access denied: Path traversal detected!",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact ᴀʟꫝᴍɪɴ for help."
                 },
                 vi: {
                         noInput: "× Cưng ơi, hãy cung cấp tên lệnh",
                         notFound: "× Không tìm thấy lệnh!",
                         denied: "× Truy cập bị từ chối: Đã phát hiện truyền tải đường dẫn!",
-                        error: "× Lỗi: %1. Liên hệ MahMUD để hỗ trợ."
+                        error: "× Lỗi: %1. Liên hệ ᴀʟꫝᴍɪɴ để hỗ trợ."
                 }
         },
 
